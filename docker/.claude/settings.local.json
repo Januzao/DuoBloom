@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Read(//c/Users/golembio/IdeaProjects/DuoBloom/**)",
-      "Bash(find backend/src/main/java/org/example/duobloom/entity/ -name \"*.java\")",
-      "Bash(./mvnw checkstyle:check)"
-    ]
-  }
-}
