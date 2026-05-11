@@ -294,7 +294,7 @@ a228a61  Initial commit
 
 | Contributor | GitHub                                        |
 |-------------|-----------------------------------------------|
-| golembio    | [@golembio](https://github.com/golembio)     |
+| fxtortic    | [@fxtortic](https://github.com/fxtortic)     |
 | Januzao     | [@Januzao](https://github.com/Januzao)       |
 
 ---
